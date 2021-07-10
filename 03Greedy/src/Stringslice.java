@@ -46,6 +46,9 @@ public class Stringslice {
 			
 		}
 		
+		System.out.println(LeftList);
+		System.out.println(RightList);
+		
 		
 		for (int i=RightList.size()-1; i>=0 ;i--) {
 //			System.out.println(i);
