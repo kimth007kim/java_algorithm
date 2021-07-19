@@ -1,3 +1,4 @@
+package Dajikstra;
 import java.util.*;
 
 class Banl {

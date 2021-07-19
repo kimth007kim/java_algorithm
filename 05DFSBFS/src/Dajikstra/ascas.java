@@ -1,3 +1,4 @@
+package Dajikstra;
 import java.util.Arrays;
 // v의 갯수가 n개
 // e의 갯수가 e개
